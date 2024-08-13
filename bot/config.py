@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "6043054287:AAGXPR4Ktv1SX3ViDSQmX10QmAzvjTo_L00"
+    APP_ID = "21204722"
+    API_HASH = "4f5b4bbc15e7f9df9961ac92e8fd219b"
+    DATABASE_URL = "postgres://koyeb-adm:zgbBy4EGDUX7@ep-dark-dream-a2zqw90y.eu-central-1.pg.koyeb.app/koyebdb"
+    SUDO_USERS = "5310455183" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "202264815644.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
